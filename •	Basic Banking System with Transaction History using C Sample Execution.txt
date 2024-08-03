@@ -1,0 +1,115 @@
+1. Create Account
+2. Login
+3. Exit
+Enter your choice: 1
+Enter username: MALLI
+Enter password: Malli@123
+Account created successfully!
+1. Create Account
+2. Login
+3. Exit
+Enter your choice: 2
+Enter username: MALLI
+Enter password: MALLI
+Login failed!
+1. Create Account
+2. Login
+3. Exit
+Enter your choice: 2
+Enter username: MALLI
+Enter password: Malli@123
+Login successful!
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Logout
+Enter your choice: 1
+Enter amount to deposit: 1000
+Deposit successful!
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Logout
+Enter your choice: 1
+Enter amount to deposit: 1000
+Deposit successful!
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Logout
+Enter your choice: 3
+Balance: 2000.00
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Logout
+Enter your choice: 1
+Enter amount to deposit: 100
+Deposit successful!
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Logout
+Enter your choice: 1
+Enter amount to deposit: 500
+Deposit successful!
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Logout
+Enter your choice: 3
+Balance: 2600.00
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Logout
+Enter your choice: 2
+Enter amount to withdraw: 100
+Withdrawal successful!
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Logout
+Enter your choice: 2
+Enter amount to withdraw: 500
+Withdrawal successful!
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Logout
+Enter your choice: 3
+Balance: 2000.00
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Logout
+Enter your choice: 4
+Transaction History:
++1000.00
++1000.00
++100.00
++500.00
+-100.00
+-500.00
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Logout
+Enter your choice: 5
+Logging out...
+1. Create Account
+2. Login
+3. Exit
+Enter your choice: 3
+Exiting...
